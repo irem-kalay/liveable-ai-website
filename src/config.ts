@@ -149,7 +149,7 @@ export const aboutConfig = {
       name: "Muhammet Can Özkurt",
       role: "Frontend Development & UX Research",
       description: "Focuses on the overall look and user experience of the mobile platform.",
-      image: "/team-can.jpg",
+      image: "/team-can.jpeg",
     },
   ],
   technology: [
