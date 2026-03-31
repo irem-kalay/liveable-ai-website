@@ -22,7 +22,7 @@ export function Features() {
       onEnter: () => {
         const tl = gsap.timeline();
         
-        cardsRef.current.forEach((card, i) => {
+        cardsRef.current.forEach((card) => {
           if (card) {
             tl.fromTo(card,
               { y: 50, opacity: 0, rotateX: -10 },

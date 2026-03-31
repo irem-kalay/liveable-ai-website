@@ -24,7 +24,7 @@ export function Hero() {
     }
 
     tl.fromTo(
-      textContainerRef.current?.querySelectorAll('p, button'),
+      textContainerRef.current?.querySelectorAll('p, button') || [],
       { y: 20, opacity: 0 },
       { y: 0, opacity: 1, duration: 0.6, stagger: 0.1, ease: 'power2.out' },
       '-=0.4'
