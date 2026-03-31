@@ -137,7 +137,7 @@ export const aboutConfig = {
       name: "İrem Kalay",
       role: "Lead - Machine Learning & Data Analysis",
       description: "Responsible for building the core Livability Index and testing predictive models.",
-      image: "/team-irem.jpg", 
+      image: "/team-irem.png", 
     },
     {
       name: "Berra Mutlu",
