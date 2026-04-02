@@ -143,7 +143,7 @@ export const aboutConfig = {
       name: "Berra Mutlu",
       role: "Backend Engineering & Database Design",
       description: "Ensures system stability and processes large amounts of urban data correctly.",
-      image: "/team-berra.jpg",
+      image: "/team-berra.png",
     },
     {
       name: "Muhammet Can Özkurt",
@@ -207,8 +207,8 @@ export const pricingConfig = {
       ],
       cta: "Buy Report",
     },
-    {
-      id: 3,
+  /* {
+  //    id: 3,
       name: "Premium",
       price: 15,
       unit: "month",
@@ -225,7 +225,7 @@ export const pricingConfig = {
         "Neighborhood change tracking",
       ],
       cta: "Coming Soon",
-    },
+    },*/
   ],
 };
 
