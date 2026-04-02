@@ -135,7 +135,7 @@ export const aboutConfig = {
   team: [
     {
       name: "İrem Kalay",
-      role: "Lead - Machine Learning & Data Analysis",
+      role: "Machine Learning & Data Analysis",
       description: "Responsible for building the core Livability Index and testing predictive models.",
       image: "/team-irem.png", 
     },
